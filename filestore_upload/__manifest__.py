@@ -10,8 +10,9 @@
     'license': 'AGPL-3',
     'website': 'https://www.vertel.se',
     'depends': [
-        'yt',
+        # 'yt',
         'base',
+        'mail',
         ],
     'data': [
         'views/filestore_view.xml',

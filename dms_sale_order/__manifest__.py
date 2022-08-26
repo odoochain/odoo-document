@@ -30,5 +30,5 @@
         # 'security/ir.model.access.csv',
         'views/views.xml',
     ],
-    'auto_install': True,
+    'auto_install': False,
 }

@@ -32,5 +32,5 @@
         'data/fleet_data.xml',
     ],
     # only loaded in demonstration mode
-    'auto_install': True,
+    'auto_install': False,
 }
